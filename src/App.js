@@ -23,6 +23,9 @@ function App() {
   };
 
   return (
+    <>
+    <h1>Hi Suchit Welcome To React  and Everything and All</h1>
+    <h2>Hi Suchit Welcome To React  and Everything and All</h2>
     <div 
       className="min-vh-100 d-flex justify-content-center align-items-center"
       style={{
@@ -32,7 +35,6 @@ function App() {
         backgroundRepeat: 'no-repeat'
       }}
     >
-    <h1>Hi Suchit Welcome To React  and Everything and All</h1>
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-md-8 col-lg-6">
@@ -85,6 +87,7 @@ function App() {
         </div>
       </div>
     </div>
+    </>
   );
 }
 
