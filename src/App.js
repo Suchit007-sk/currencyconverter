@@ -34,6 +34,8 @@ function App() {
     <h8> Suchit </h8>
     <h9> Suchit </h9>
     <h10> Suchit </h10>
+    <p>India is the Best</p>
+    <p>USA is the Best</p>
     <div 
       className="min-vh-100 d-flex justify-content-center align-items-center"
       style={{
