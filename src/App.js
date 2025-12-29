@@ -24,9 +24,8 @@ function App() {
 
   return (
     <>
-    <h1>Hi Suchit Welcome To React  and Everything and All</h1>
-     <h1>India is my Country All Indians Arevmy Broter and Sisters</h1>
-    <h2>Hi Suchit Welcome To React  and Everything and All</h2>git status
+    <h1>India is my Country All Indians Arevmy Broter and Sisters</h1>
+    <h2>Hi Suchit Welcome To React  and Everything and All</h2>
     <h3>Hi Suchit Welcome To React  and Everything and All</h3>
     <h4>Hi Suchit Welcome To React  and Everything and All</h4>
     <h2>Hi Suchit Welcome To React  and Everything and All</h2>
