@@ -25,9 +25,13 @@ function App() {
   return (
     <>
     <h1>Hi Suchit Welcome To React  and Everything and All</h1>
+
     <h2>Hi Suchit Welcome To React  and Everything and All</h2>git status
     <h3>Hi Suchit Welcome To React  and Everything and All</h3>
     <h4>Hi Suchit Welcome To React  and Everything and All</h4>
+    <h2>Hi Suchit Welcome To React  and Everything and All</h2>
+    
+
     <div 
       className="min-vh-100 d-flex justify-content-center align-items-center"
       style={{
